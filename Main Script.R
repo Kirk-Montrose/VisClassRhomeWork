@@ -1,7 +1,7 @@
 library(dplyr)
 library(ggplot2)
 library(tidyr)
-#library(logit)
+library(logit)
 
 setwd("~/Homework/VisClassRhomeWork/Data") #Set your on path
 #setwd("~/Documents/Github/VisClassRhomeWork/Data")
